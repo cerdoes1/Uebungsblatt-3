@@ -8,6 +8,9 @@ public class H1_main {
 	    boolean warnhinweis = false;
 	    boolean negativ = false;
 	     
+	    warnhinweis = false;
+	    negativ = false;
+	    
 	    if (guthaben < 0) {
 	        negativ = true;
 	        
